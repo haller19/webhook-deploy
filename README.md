@@ -2,4 +2,4 @@
 
 ## Push To Deploy
 
-Push すると Deploy される
+Push すると Deploy s される s
